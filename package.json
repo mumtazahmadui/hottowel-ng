@@ -2,15 +2,7 @@
   "name": "hottowel-ng",
   "version": "3.0.0",
   "description": "HotTowel Angular",
-  "authors": [
-    "John Papa"
-  ],
   "license": "MIT",
-  "homepage": "https://github.com/johnpapa/hottowel-ng",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/johnpapa/hottowel-ng.git"
-  },
   "scripts": {
     "init": "npm install",
     "install": "bower install",
